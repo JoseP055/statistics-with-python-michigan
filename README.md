@@ -117,4 +117,5 @@ Completing this specialization grants:
 
 ## Final Note
 
-This repository represents an applied journey through modern statistics using Python, bridging theory, computation, and data-driven decision-making.
+This repository represents an applied journey through modern statistics using Python, bridging theory, computation, and data-driven decision-making
+
