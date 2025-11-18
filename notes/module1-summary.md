@@ -29,3 +29,13 @@ Este primer módulo fue mi punto de partida en el mundo del análisis de datos. 
 
 ## Conclusión del día 1
 Cerré el primer día entendiendo por qué la estadística es un pilar en cualquier análisis, cómo los sesgos pueden afectar la realidad de los datos y por qué clasificar correctamente las variables es indispensable antes de visualizarlas. Trabajé con datos reales, exploré ejemplos aplicados y consolidé las bases necesarias para avanzar hacia análisis más profundos en los próximos módulos.
+
+## Conclusión del día 2
+Hoy consolidé mi entrada al entorno práctico del análisis de datos. Me familiaricé con Jupyter Notebooks como mi “laboratorio oficial” para experimentar, documentar y ejecutar código. Reforcé los tipos de datos en Python —números, cadenas, listas— entendiendo cómo se relacionan directamente con tareas de análisis. También di mis primeros pasos sólidos con bibliotecas clave como **pandas** y **numpy**, aprendiendo a manipular, explorar y preparar datos. Los laboratorios aplicados cerraron el círculo: teoría y práctica se conectaron, dejando claro que el manejo eficiente de datos es tanto técnico como estratégico.
+
+---
+
+## Conclusión del Módulo 1
+Este módulo me dio el terreno firme que necesitaba para avanzar en el mundo del análisis. Primero comprendí el valor de la estadística, la importancia de reconocer sesgos y el rol crítico de clasificar correctamente las variables. Luego sumé el aspecto técnico: herramientas, tipos de datos y bibliotecas que convertiré en mis aliadas a partir de ahora.
+
+En conjunto, estos dos días construyeron una base clara: entender los datos desde su origen, cuestionarlos con criterio, manipularlos con herramientas profesionales y prepararme para análisis mucho más profundos. A partir de aquí, cada módulo se vuelve una oportunidad para transformar información en conocimiento y decisiones inteligentes.
