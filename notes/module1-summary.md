@@ -39,3 +39,4 @@ Hoy consolidé mi entrada al entorno práctico del análisis de datos. Me famili
 Este módulo me dio el terreno firme que necesitaba para avanzar en el mundo del análisis. Primero comprendí el valor de la estadística, la importancia de reconocer sesgos y el rol crítico de clasificar correctamente las variables. Luego sumé el aspecto técnico: herramientas, tipos de datos y bibliotecas que convertiré en mis aliadas a partir de ahora.
 
 En conjunto, estos dos días construyeron una base clara: entender los datos desde su origen, cuestionarlos con criterio, manipularlos con herramientas profesionales y prepararme para análisis mucho más profundos. A partir de aquí, cada módulo se vuelve una oportunidad para transformar información en conocimiento y decisiones inteligentes.
+"Estudios pausado"
